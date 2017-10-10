@@ -4,7 +4,7 @@
   "description": "mi primer app",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
