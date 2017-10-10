@@ -1,0 +1,19 @@
+{
+  "name": "wolf",
+  "version": "1.0.0",
+  "description": "mi primer app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafai77/wolf.git"
+  },
+  "author": "Rafael Aguirre Carmona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafai77/wolf/issues"
+  },
+  "homepage": "https://github.com/rafai77/wolf#readme"
+}
