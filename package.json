@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rafai77/wolf/issues"
   },
-  "homepage": "https://github.com/rafai77/wolf#readme"
+  "homepage": "https://github.com/rafai77/wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
